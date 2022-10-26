@@ -1,0 +1,8 @@
+{
+  "host": "43.143.178.100",
+  "user": "root",
+  "password": "ddd",
+  "database": "data",
+  "connectionLimit": 10,
+  "supportBigNumbers": true
+}
